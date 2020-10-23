@@ -1,5 +1,5 @@
 ### Hi there 👋
-![ato lash's github stats](https://github-readme-stats.vercel.app/api?username=hal-shu-sato&show_icons=true)  
+[![ato lash's github stats](https://github-readme-stats.vercel.app/api?username=hal-shu-sato&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hal-shu-sato)](https://github.com/anuraghazra/github-readme-stats)  
 [![ato lash's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hal_shu_sato)](https://github.com/anuraghazra/github-readme-stats)
 
